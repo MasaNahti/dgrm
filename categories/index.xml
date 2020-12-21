@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Društvo generala Rudolfa Maistra Kranj</title>
+    <link>https://MasaNahti.github.io/dgrm/categories/</link>
+    <description>Recent content in Categories on Društvo generala Rudolfa Maistra Kranj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>si-sl</language>
+    <copyright>DGRM Kranj</copyright>
+    
+	<atom:link href="https://MasaNahti.github.io/dgrm/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
