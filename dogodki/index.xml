@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dogodkis on Društvo generala Rudolfa Maistra Kranj</title>
-    <link>https://MasaNahti.github.io/dgrm/dogodki/</link>
+    <link>/dogodki/</link>
     <description>Recent content in Dogodkis on Društvo generala Rudolfa Maistra Kranj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>si-sl</language>
     <copyright>DGRM Kranj</copyright>
     <lastBuildDate>Mon, 23 Nov 2020 11:25:05 -0400</lastBuildDate>
     
-	<atom:link href="https://MasaNahti.github.io/dgrm/dogodki/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/dogodki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Proslava ob dnevu generala Rudolfa Maistra</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2020-11-23_proslava/</link>
+      <link>/dogodki/2020-11-23_proslava/</link>
       <pubDate>Mon, 23 Nov 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2020-11-23_proslava/</guid>
+      <guid>/dogodki/2020-11-23_proslava/</guid>
       <description>Državni praznik, dan Rudolfa Maistra, praznujemo v Sloveniji v spomin na njegov boj za severno slovensko mejo od leta 2005. Danes smo se mu na Maistrovem trgu v Kranju ob državnem prazniku poklonili tako, da sta predsednik Društva general Rudolf Maister Kranj mag. Janez Tavčar in župan MO Kranj g. Matjaž Rakovec v spremstvu nekaterih članov društva položila venec k njegovemu spomeniku.</description>
     </item>
     
     <item>
       <title>Sporočilo članicam in članom Društva generala Rudolfa Maistra Kranj</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2020-11-10_sporocilo/</link>
+      <link>/dogodki/2020-11-10_sporocilo/</link>
       <pubDate>Tue, 10 Nov 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2020-11-10_sporocilo/</guid>
+      <guid>/dogodki/2020-11-10_sporocilo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skupna seja Upravnega odbora in Nadzornega odbora društva</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2020-10-08_seja/</link>
+      <link>/dogodki/2020-10-08_seja/</link>
       <pubDate>Thu, 08 Oct 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2020-10-08_seja/</guid>
+      <guid>/dogodki/2020-10-08_seja/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Program aktivnosti društva za leto 2020</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2020-04_program/</link>
+      <link>/dogodki/2020-04_program/</link>
       <pubDate>Wed, 01 Apr 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2020-04_program/</guid>
+      <guid>/dogodki/2020-04_program/</guid>
       <description>Predhodno izdelani program aktivnosti je Upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju  omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta.</description>
     </item>
     
     <item>
       <title>Proslava ob dnevu generala Rudolfa Maistra</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2019-11-21_proslava/</link>
+      <link>/dogodki/2019-11-21_proslava/</link>
       <pubDate>Thu, 21 Nov 2019 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2019-11-21_proslava/</guid>
+      <guid>/dogodki/2019-11-21_proslava/</guid>
       <description>Proslava ob dnevu generala Rudolfa Maistra 21. 11. 2019. Slavnostni govornik je bil mag. Franci Rozman, član društva in dolgoletni ravnatelj Gimnazije Kranj.</description>
     </item>
     
     <item>
       <title>Predstavitev knjige Stražarji Karavank v Mestni knjižnici Kranj</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2018-11-29_predstavitev/</link>
+      <link>/dogodki/2018-11-29_predstavitev/</link>
       <pubDate>Thu, 29 Nov 2018 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2018-11-29_predstavitev/</guid>
+      <guid>/dogodki/2018-11-29_predstavitev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Koroška, njihova srčna stvar</title>
-      <link>https://MasaNahti.github.io/dgrm/dogodki/2018-02-18_gg/</link>
+      <link>/dogodki/2018-02-18_gg/</link>
       <pubDate>Sun, 18 Feb 2018 11:25:05 -0400</pubDate>
       
-      <guid>https://MasaNahti.github.io/dgrm/dogodki/2018-02-18_gg/</guid>
+      <guid>/dogodki/2018-02-18_gg/</guid>
       <description>Letos mineva sto let od začetka bojev za našo severno mejo. Začel jih je general Rudolf Maister, z njim pa so šli v boj številni slovenski fantje in možje, utrujeni od komaj končane vojne. Med bojevniki so bili tudi Gorenjci. O njih, o njihovem pogumu in domoljubju ter o vlogi Ljubelja je pripovedoval upokojeni brigadir Slovenske vojske Janez Kavar iz Križev.</description>
     </item>
     
