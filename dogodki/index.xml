@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>si-sl</language>
     <copyright>DGRM Kranj</copyright>
-    <lastBuildDate>Mon, 23 Nov 2020 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="/dogodki/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Voščilo</title>
+      <link>/dogodki/2020-12-20_voscilo/</link>
+      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>/dogodki/2020-12-20_voscilo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proslava ob dnevu generala Rudolfa Maistra</title>
