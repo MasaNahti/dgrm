@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>si-sl</language>
     <copyright>DGRM Kranj</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Maistrova razstava na Gimnaziji Kranj</title>
+      <link>/dogodki/2021-11-03_razstava_gimkr/</link>
+      <pubDate>Wed, 03 Nov 2021 11:25:05 -0400</pubDate>
+      
+      <guid>/dogodki/2021-11-03_razstava_gimkr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Društvo generala Rudolfa Maistra Kranj v letu 2020</title>
@@ -19,15 +28,6 @@
       
       <guid>/dogodki/2020-12-26_maistrov_glas/</guid>
       <description>Objava v Maistrovem glasu decembra 2020.</description>
-    </item>
-    
-    <item>
-      <title>Maistrova razstava na Gimnaziji Kranj</title>
-      <link>/dogodki/2021-11-03_razstava_gimkr/</link>
-      <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
-      
-      <guid>/dogodki/2021-11-03_razstava_gimkr/</guid>
-      <description></description>
     </item>
     
     <item>
