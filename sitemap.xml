@@ -4,12 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2022-03-24T11:25:05-04:00</lastmod>
+    <lastmod>2022-03-25T11:25:05-04:00</lastmod>
   </url>
   
   <url>
     <loc>/dogodki/</loc>
-    <lastmod>2022-03-24T11:25:05-04:00</lastmod>
+    <lastmod>2022-03-25T11:25:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dogodki/2022-03_program/</loc>
+    <lastmod>2022-03-25T11:25:05-04:00</lastmod>
   </url>
   
   <url>
@@ -87,6 +92,10 @@
   
   <url>
     <loc>/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>/program/</loc>
   </url>
   
   <url>
