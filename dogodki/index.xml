@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>si-sl</language>
     <copyright>DGRM Kranj</copyright>
-    <lastBuildDate>Tue, 23 Nov 2021 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="/dogodki/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volilna skupščina DGRM Kranj 24. 3. 2022</title>
+      <link>/dogodki/2022-03-24_volilna_skupscina/</link>
+      <pubDate>Thu, 24 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>/dogodki/2022-03-24_volilna_skupscina/</guid>
+      <description>Člani Društva generala Rudolfa Maistra Kranj so imeli 24. 3. 2022 v hotelu Elegans na Brdu letno in volilno skupščino.</description>
+    </item>
+    
+    <item>
+      <title>Skupna seja upravnega odbora in nadzornega odbora društva</title>
+      <link>/dogodki/2022-03-15_seja/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>/dogodki/2022-03-15_seja/</guid>
+      <description>Upravni odbor in nadzorni odbor Društva generala Rudolfa Maistra Kranj sta imela 15. marca 2022 skupno sejo v prostorih Gostilne Benedik v Stražišču.</description>
+    </item>
     
     <item>
       <title>Proslava ob dnevu generala Rudolfa Maistra</title>
@@ -68,7 +86,7 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
     </item>
     
     <item>
-      <title>Skupna seja Upravnega odbora in Nadzornega odbora društva</title>
+      <title>Skupna seja upravnega odbora in nadzornega odbora društva</title>
       <link>/dogodki/2020-10-08_seja/</link>
       <pubDate>Thu, 08 Oct 2020 11:25:05 -0400</pubDate>
       
@@ -82,7 +100,7 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
       <pubDate>Wed, 01 Apr 2020 11:25:05 -0400</pubDate>
       
       <guid>/dogodki/2020-04_program/</guid>
-      <description>Predhodno izdelani program aktivnosti je Upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju  omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta.</description>
+      <description>Predhodno izdelani program aktivnosti je upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju  omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta.</description>
     </item>
     
     <item>
