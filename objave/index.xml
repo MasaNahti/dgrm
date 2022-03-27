@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Društvo generala Rudolfa Maistra Kranj</title>
-    <link>/</link>
-    <description>Recent content on Društvo generala Rudolfa Maistra Kranj</description>
+    <title>Objaves on Društvo generala Rudolfa Maistra Kranj</title>
+    <link>/objave/</link>
+    <description>Recent content in Objaves on Društvo generala Rudolfa Maistra Kranj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>si-sl</language>
     <copyright>DGRM Kranj</copyright>
     <lastBuildDate>Fri, 25 Mar 2022 11:25:05 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/objave/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -137,45 +137,6 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
       
       <guid>/objave/2018-02-18_gg/</guid>
       <description>Letos mineva sto let od začetka bojev za našo severno mejo. Začel jih je general Rudolf Maister, z njim pa so šli v boj številni slovenski fantje in možje, utrujeni od komaj končane vojne. Med bojevniki so bili tudi Gorenjci. O njih, o njihovem pogumu in domoljubju ter o vlogi Ljubelja je pripovedoval upokojeni brigadir Slovenske vojske Janez Kavar iz Križev.</description>
-    </item>
-    
-    <item>
-      <title> O Društvu generala Rudolfa Maistra Kranj</title>
-      <link>/drustvo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/drustvo/</guid>
-      <description>Društvo generala Rudolfa Maistra Kranj (v nadaljevanju: DGRM Kranj) je pravna oseba zasebnega prava, ki združuje pravne in fizične osebe, potomce Maistrovih borcev, zainteresirane ljudi, šole in druge ustanove, ki želijo ohraniti spomin na zgodovinsko vlogo in obdobje generala Maistra in njegovih borcev za severno mejo. Prav general Maister in borci za severno mejo so po koncu prve svetovne vojne od novembra 1918 do junija 1919 z vojaškimi akcijami pokazali veliko junaštva, samoodrekanja in narodnega domoljubja za ohranitev slovenskega etničnega ozemlja.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>/kontakt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/kontakt/</guid>
-      <description>Predsednik društva mag. Janez Tavčar:
- telefonska številka: 031 307 022 e-naslov: janez.tavcar@kranjski.net  </description>
-    </item>
-    
-    <item>
-      <title>Program dela Društva generala Rudolfa Maistra Kranj za leto 2022</title>
-      <link>/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/program/</guid>
-      <description>Za leto 2022 v Društvu generala Rudolfa Maistra Kranj načrtujemo izvedbo naslednjih nalog:
-  sklic upravnega odbora in nadzornega odbora društva ter priprava kandidatne liste, poročil o preteklem delu in programa dela za leto 2022 za volilno skupščino društva (15. marca),
-  izvedba volilne skupščine društva za sprejem poročil o opravljenem delu, razrešitev sedanjih in izvolitev novih organov društva za naslednji mandat ter sprejem programa dela za leto 2022 (24.</description>
-    </item>
-    
-    <item>
-      <title>Stražarji Karavank</title>
-      <link>/knjiga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/knjiga/</guid>
-      <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; } #paginator{ text-align: center; margin-bottom: 10px; }  Prejšnja stran Naslednja stran &amp;nbsp; &amp;nbsp; Stran:  /     window.onload = function() { var url = &#34;..\/strazarji-karavank.pdf&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#39;/js/pdf-js/build/pdf.worker.js&#39;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.getElementById(&#39;the-canvas&#39;), ctx = canvas.</description>
     </item>
     
   </channel>
