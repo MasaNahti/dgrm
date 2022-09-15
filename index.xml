@@ -163,8 +163,9 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/kontakt/</guid>
-      <description>Predsednik društva Roman Nahtigal:
- telefonska številka: 031 392 798 e-naslov: roman.nahtigal@siol.net  </description>
+      <description>Predsednik društva Roman Nahtigal
+Telefonska številka: 031 392 798
+E-naslov: roman.nahtigal@siol.net</description>
     </item>
     
     <item>
@@ -175,6 +176,16 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
       <guid>/drustvo/</guid>
       <description>Društvo general Rudolf Maister Kranj (DGRM Kranj) je pravna oseba zasebnega prava, ki združuje pravne in fizične osebe, potomce Maistrovih borcev, domoljube ter šole in druge ustanove, ki negujejo spomin na zgodovinsko vlogo generala Maistra in borcev za severno mejo.
 General Maister in borci za severno mejo so po koncu prve svetovne vojne od novembra 1918 do junija 1919 z akcijami, odločnostjo in hrabrostjo ohranili slovensko narodno ozemlje predvsem pred apetiti s severa.</description>
+    </item>
+    
+    <item>
+      <title>Prispevki in članki</title>
+      <link>/prispevki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prispevki/</guid>
+      <description>Janez Kavar: Tržičan Lojze Ude (Gorenjski glas št. 7, 2010) (pdf)
+Jeklo in ljudje - Jeseniški zbornik II, 1969: Lojze Ude (pdf)</description>
     </item>
     
     <item>
@@ -189,12 +200,32 @@ General Maister in borci za severno mejo so po koncu prve svetovne vojne od nove
     </item>
     
     <item>
+      <title>Statut Društva general Rudolf Maister</title>
+      <link>/statut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/statut/</guid>
+      <description>Statut Društvo general Rudolf Maister Kranj (pdf)
+Aneks k Statut Društvo general Rudolf Maister Kranj (pdf)</description>
+    </item>
+    
+    <item>
       <title>Stražarji Karavank</title>
       <link>/knjiga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/knjiga/</guid>
       <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; } #paginator{ text-align: center; margin-bottom: 10px; }  Prejšnja stran Naslednja stran &amp;nbsp; &amp;nbsp; Stran:  /     window.onload = function() { var url = &#34;..\/strazarji-karavank.pdf&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#39;/js/pdf-js/build/pdf.worker.js&#39;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.getElementById(&#39;the-canvas&#39;), ctx = canvas.</description>
+    </item>
+    
+    <item>
+      <title>Zapisniki skupščine in organov društva</title>
+      <link>/zapisniki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zapisniki/</guid>
+      <description>ZAPISNIKI ZA LETO 2022
+ Zapisnik redne letne in volilne skupščine z dne 24. 3. 2022 (pdf) Zapisnik korespondenčne skupščine od 21. do 5. 6. 2022 za spremembo 2. člena statuta (pdf)  </description>
     </item>
     
   </channel>

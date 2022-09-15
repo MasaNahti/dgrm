@@ -105,7 +105,15 @@
   </url>
   
   <url>
+    <loc>/prispevki/</loc>
+  </url>
+  
+  <url>
     <loc>/program/</loc>
+  </url>
+  
+  <url>
+    <loc>/statut/</loc>
   </url>
   
   <url>
@@ -114,6 +122,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/zapisniki/</loc>
   </url>
   
 </urlset>
