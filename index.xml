@@ -248,6 +248,15 @@ Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spo
     </item>
     
     <item>
+      <title>Gregor Kastelic: Vojaški dogodki na Koroškem po koncu prve svetovne vojne</title>
+      <link>/vojaskidogodki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vojaskidogodki/</guid>
+      <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; } #paginator{ text-align: center; margin-bottom: 10px; }  Prejšnja stran Naslednja stran &amp;nbsp; &amp;nbsp; Stran:  /     window.onload = function() { var url = &#34;..\/Gregor-Kastelic_Vojaski-dogodki-na-Koroskem-po-koncu-prve-svetovne-vojne.pdf&#34;; var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;]; pdfjsLib.GlobalWorkerOptions.workerSrc = &#39;/js/pdf-js/build/pdf.worker.js&#39;; var pdfDoc = null, pageNum = 1, pageRendering = false, pageNumPending = null, scale = 3, canvas = document.getElementById(&#39;the-canvas&#39;), ctx = canvas.</description>
+    </item>
+    
+    <item>
       <title>Kontakt</title>
       <link>/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
