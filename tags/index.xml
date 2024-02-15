@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Društvo general Rudolf Maister Kranj</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Društvo general Rudolf Maister Kranj</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>si-sl</language>
-    <copyright>DGRM Kranj</copyright>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
+<rss version="2.0">
+    <channel>
+        <title>Tags on Društvo general Rudolf Maister Kranj</title>
+        <link>www.dgrm-kranj.si/tags/</link>
+        <description>Recent content in Društvo general Rudolf Maister Kranj</description>
+
+         
+            
+        
+    </channel>
 </rss>
