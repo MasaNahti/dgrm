@@ -1,262 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/objave/2024-02-15_borci-za-severno-mejo/</loc>
-    <lastmod>2024-02-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2024-02-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/</loc>
-    <lastmod>2024-02-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-11-23_2_dan-rd-govor/</loc>
-    <lastmod>2023-11-23T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-11-23_1_dan-rd-proslava/</loc>
-    <lastmod>2023-11-23T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-11-02_spominska_obelezja/</loc>
+    <loc>https://www.dgrm-kranj.si/</loc>
+    <lastmod>2023-11-23T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-11-23_2_dan-rd-govor/</loc>
+    <lastmod>2023-11-23T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/</loc>
+    <lastmod>2023-11-23T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-11-23_1_dan-rd-proslava/</loc>
+    <lastmod>2023-11-23T11:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-11-02_spominska_obelezja/</loc>
     <lastmod>2023-11-02T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-10-17_razstava_os_sencur/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-10-17_razstava_os_sencur/</loc>
     <lastmod>2023-10-17T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-10-14_ekskurzija/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-10-14_ekskurzija/</loc>
     <lastmod>2023-10-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-07-27_objava_jutro/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-07-27_objava_jutro/</loc>
     <lastmod>2023-07-28T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-07-26_obletnica_smrti/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-07-26_obletnica_smrti/</loc>
     <lastmod>2023-07-26T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-07-06_spominska_plosca/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-07-06_spominska_plosca/</loc>
     <lastmod>2023-07-06T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-05-11_razstava_os_naklo/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-05-11_razstava_os_naklo/</loc>
     <lastmod>2023-05-11T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-03-26_ekskurzija-video/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-03-26_ekskurzija-video/</loc>
     <lastmod>2023-03-26T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-11-25_gglas-copy/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-11-25_gglas-copy/</loc>
     <lastmod>2023-03-24T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2023-03-16_letna_skupscina/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2023-03-16_letna_skupscina/</loc>
     <lastmod>2023-03-16T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-11-25_gglas/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-11-25_gglas/</loc>
     <lastmod>2022-11-25T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-11-23_2_dan-rd-govor/</loc>
-    <lastmod>2022-11-23T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-11-23_1_dan-rd-proslava/</loc>
-    <lastmod>2022-11-23T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-11-14_ekskurzija/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-11-23_2_dan-rd-govor/</loc>
+    <lastmod>2022-11-23T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-11-23_1_dan-rd-proslava/</loc>
+    <lastmod>2022-11-23T11:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-11-14_ekskurzija/</loc>
     <lastmod>2022-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-10-21_razstava_dsd/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-10-21_razstava_dsd/</loc>
     <lastmod>2022-10-21T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-10-17_razstava_os_krize/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-10-17_razstava_os_krize/</loc>
     <lastmod>2022-10-17T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-07-26_dan_smrti_gm/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-07-26_dan_smrti_gm/</loc>
     <lastmod>2022-07-26T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-07_zapisnika/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-07_zapisnika/</loc>
     <lastmod>2022-03-25T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-03_program/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-03_program/</loc>
     <lastmod>2022-03-25T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-03-24_volilna_skupscina/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-03-24_volilna_skupscina/</loc>
     <lastmod>2022-03-24T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2022-03-15_seja/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2022-03-15_seja/</loc>
     <lastmod>2022-03-15T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2021-11-23_proslava/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2021-11-23_proslava/</loc>
     <lastmod>2021-11-23T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2021-11-03_razstava_gimkr/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2021-11-03_razstava_gimkr/</loc>
     <lastmod>2021-11-03T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-12-26_maistrov_glas/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-12-26_maistrov_glas/</loc>
     <lastmod>2020-12-26T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-12-20_voscilo/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-12-20_voscilo/</loc>
     <lastmod>2020-12-20T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-11-23_proslava/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-11-23_proslava/</loc>
     <lastmod>2020-11-23T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-11-10_sporocilo/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-11-10_sporocilo/</loc>
     <lastmod>2020-11-10T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-10-08_seja/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-10-08_seja/</loc>
     <lastmod>2020-10-08T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2020-04_program/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2020-04_program/</loc>
     <lastmod>2020-04-01T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2019-11-21_proslava/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2019-11-21_proslava/</loc>
     <lastmod>2019-11-21T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2018-11-29_predstavitev/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2018-11-29_predstavitev/</loc>
     <lastmod>2018-11-29T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/objave/2018-02-18_gg/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/objave/2018-02-18_gg/</loc>
     <lastmod>2018-02-18T11:25:05-04:00</lastmod>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/categories/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/vojaski-dogodki-po-koncu-prve-svetovne-vojne/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/janez-kavar-lojze-ude/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/joze-kosnjek-branili-severno-mejo/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/kontakt/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/lojze-ude-jeseniski-trikot/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/lojze-ude-boji/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/ravbar-porocnik-lojze-ude/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/o-drustvu/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/porocila/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/predlogi-za-priznanja/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/program/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/spominski-zbornik-maribor/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/stane-bostjancic-naloga/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/statut-drustva/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/strazarji-karavank/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/tags/</loc>
+  </url><url>
+    <loc>https://www.dgrm-kranj.si/zapisniki/</loc>
   </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/vojaski-dogodki-po-koncu-prve-svetovne-vojne/</loc>
-  </url>
-  
-  <url>
-    <loc>/janez-kavar-lojze-ude/</loc>
-  </url>
-  
-  <url>
-    <loc>/joze-kosnjek-branili-severno-mejo/</loc>
-  </url>
-  
-  <url>
-    <loc>/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>/lojze-ude-jeseniski-trikot/</loc>
-  </url>
-  
-  <url>
-    <loc>/lojze-ude-boji/</loc>
-  </url>
-  
-  <url>
-    <loc>/ravbar-porocnik-lojze-ude/</loc>
-  </url>
-  
-  <url>
-    <loc>/o-drustvu/</loc>
-  </url>
-  
-  <url>
-    <loc>/porocila/</loc>
-  </url>
-  
-  <url>
-    <loc>/predlogi-za-priznanja/</loc>
-  </url>
-  
-  <url>
-    <loc>/program/</loc>
-  </url>
-  
-  <url>
-    <loc>/spominski-zbornik-maribor/</loc>
-  </url>
-  
-  <url>
-    <loc>/stane-bostjancic-naloga/</loc>
-  </url>
-  
-  <url>
-    <loc>/statut-drustva/</loc>
-  </url>
-  
-  <url>
-    <loc>/strazarji-karavank/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/zapisniki/</loc>
-  </url>
-  
 </urlset>
