@@ -1,11 +1,13 @@
-<rss version="2.0">
-    <channel>
-        <title>Categories on Društvo general Rudolf Maister Kranj</title>
-        <link>https://www.dgrm-kranj.si/categories/</link>
-        <description>Recent content in Društvo general Rudolf Maister Kranj</description>
-
-         
-            
-        
-    </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>
