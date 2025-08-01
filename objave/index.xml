@@ -1,15 +1,24 @@
 <rss version="2.0">
     <channel>
         <title>Objave on Društvo general Rudolf Maister Kranj</title>
-        <link>http://localhost:1313/objave/</link>
+        <link>https://www.dgrm-kranj.si/objave/</link>
         <description>Recent content in Društvo general Rudolf Maister Kranj</description>
 
          
             
                  
                 <item>
+                    <title>Pozabljeni gorenjski junaki na severni meji</title>
+                    <link>https://www.dgrm-kranj.si/objave/2025-08-01_gglas/</link>
+                    <pubDate>Thu, 31 Jul 2025 11:25:05 -0400</pubDate>
+                    <description>Članek o izdaji knjige Pozabljene bitke, s katero bo DGRM Kranj obudilo spomin na gorenjske bojevnike za severno mejo, še posebej na majorja Alfreda Lavrilča &hellip;</description>
+                </item>
+                
+            
+                 
+                <item>
                     <title>Društvo general Rudolf Maister Kranj bo izdalo knjigo »Pozabljene bitke«</title>
-                    <link>http://localhost:1313/objave/2025-05-11_izdaja_knjige/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2025-05-11_izdaja_knjige/</link>
                     <pubDate>Sun, 11 May 2025 08:00:00 -0700</pubDate>
                     <description>Društvo general Rudolf Maister Kranj se je junija lani, v Maistrovem letu 2024, odločilo, da bo povabilo nekatere avtorje, ki so raziskovali gradiva in pisali prispevke že za knjigo »Stražarji Karavank« - Lojze Ude in boji za severno mejo leta 2018, da sodelujejo tudi pri knjigi o bojih za meje na Gorenjskem in Koroškem po končani prvi svetovni vojni in razpadu Avstro – Ogrske monarhije. &hellip;</description>
                 </item>
@@ -18,7 +27,7 @@
                  
                 <item>
                     <title>Razstave in predavanja DGRM Kranj o Rudolfu Maistru in o bojih za severno mejo v  Naklem, v Mojstrani in v Kranju</title>
-                    <link>http://localhost:1313/objave/2025-05-10_razstave_in_predavanja/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2025-05-10_razstave_in_predavanja/</link>
                     <pubDate>Sat, 10 May 2025 12:00:00 -0700</pubDate>
                     <description>Društvo general Rudolf Maister Kranj je tudi letos spomladi postavilo več razstav ZDGM o Rudolfu Maistru in o bojih za severno mejo v osnovnih šolah v občinah Naklo, Kranjska Gora in Kranj, ponekod pa organiziralo tudi predavanja o teh bojih. &hellip;</description>
                 </item>
@@ -27,7 +36,7 @@
                  
                 <item>
                     <title>Dekret o povišanju majorja Rudolfa Maistra v generala</title>
-                    <link>http://localhost:1313/objave/2024-12-14_dekret/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-12-14_dekret/</link>
                     <pubDate>Fri, 13 Dec 2024 12:00:00 -0800</pubDate>
                     <description>Dekret o povišanju majorja Rudolfa Maistra v generala so podpisali predsednik Narodnega sveta za Štajersko dr. Karel Verstovšek, podpredsednik dr. Franjo Rosina in tajnik Fran Voglar. Morali so ukrepati hitro, ker je šlo za vprašanje, ali bo Maribor z okolico slovenski ali avstrijski. &hellip;</description>
                 </item>
@@ -36,7 +45,7 @@
                  
                 <item>
                     <title>Slavnostni koncerti ob praznovanju 75. obletnice Folklorne skupine Sava Kranj</title>
-                    <link>http://localhost:1313/objave/2024-12-07_koncert_sava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-12-07_koncert_sava/</link>
                     <pubDate>Sat, 07 Dec 2024 12:00:00 -0800</pubDate>
                     <description>Folklorna skupina Sava Kranj je v Maistrovem letu 2024 praznovala 75. obletnico delovanja. S programom slavnostnega koncerta, ki so ga pripravili za ta jubilej, so se sprehodili ob naši severni in zahodni meji ter poklonili generalu Maistru &hellip;</description>
                 </item>
@@ -45,7 +54,7 @@
                  
                 <item>
                     <title>Proslava ob državnem prazniku dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2024-11-26_proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-11-26_proslava/</link>
                     <pubDate>Tue, 26 Nov 2024 12:00:00 -0800</pubDate>
                     <description>Društvo general Rudolf Maister Kranj, Mestna občina Kranj in Gimnazija Kranj smo 22. 11. 2024 za državni praznik dan Rudolfa Maistra tudi letos pripravili proslavo na Maistrovem trgu v Kranju &hellip;</description>
                 </item>
@@ -54,7 +63,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Josipa Vandota Kranjska Gora</title>
-                    <link>http://localhost:1313/objave/2024-11-16_razstava_os_kranjska_gora/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-11-16_razstava_os_kranjska_gora/</link>
                     <pubDate>Sat, 16 Nov 2024 12:00:00 -0800</pubDate>
                     <description>Od 4. do 14. novembra 2024 smo v osnovni šoli postavili razstavo o generalu Rudolfu Maistru in bojih za severno mejo &hellip;</description>
                 </item>
@@ -63,7 +72,7 @@
                  
                 <item>
                     <title>Vabilo na proslavo ob državnem prazniku - dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2024-11-15_vabilo_na_proslavo/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-11-15_vabilo_na_proslavo/</link>
                     <pubDate>Fri, 15 Nov 2024 12:00:00 -0800</pubDate>
                     <description>&hellip;</description>
                 </item>
@@ -72,7 +81,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Stražišče Kranj</title>
-                    <link>http://localhost:1313/objave/2024-10-28_razstava_os_strazisce/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-10-28_razstava_os_strazisce/</link>
                     <pubDate>Mon, 28 Oct 2024 12:00:00 -0700</pubDate>
                     <description>Razstavo Zveze društev generala Maistra o generalu Rudolfu Maistru in bojih za severno mejo smo v dneh od 21. do 26. oktobra 2024 po dogovoru z ravnateljem Pavlom Srečnikom postavili v Osnovni šoli Stražišče v Kranju &hellip;</description>
                 </item>
@@ -81,7 +90,7 @@
                  
                 <item>
                     <title>Strokovna ekskurzija Društva general Rudolf Maister Kranj v Maribor in na Zavrh</title>
-                    <link>http://localhost:1313/objave/2024-10-12_ekskurzija/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-10-12_ekskurzija/</link>
                     <pubDate>Sun, 27 Oct 2024 12:00:00 -0700</pubDate>
                     <description>Društvo general Rudolf Maister Kranj (v nadaljevanju: DGRM Kranj) je letos 12. oktobra organiziralo strokovno ekskurzijo v Maribor in na Zavrh &hellip;</description>
                 </item>
@@ -90,7 +99,7 @@
                  
                 <item>
                     <title>Poklonili smo se spominu na bazoviške junake in Vladimira Gortana</title>
-                    <link>http://localhost:1313/objave/2024-09-06_poklon/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-09-06_poklon/</link>
                     <pubDate>Sat, 07 Sep 2024 12:00:00 -0700</pubDate>
                     <description>Pri najstarejšem antifašističnem spomeniku v Evropi v Prešernovem gaju v Kranju smo se tudi nekateri člani DGRM Kranj ob 94. obletnici smrti bazoviških junakov poklonili spominu na štiri tržaške Slovence &hellip;</description>
                 </item>
@@ -99,7 +108,7 @@
                  
                 <item>
                     <title>Položitev lovorovega venca na prenovljeno spominsko ploščo na Prešernovem gledališču 27. 6. 2024</title>
-                    <link>http://localhost:1313/objave/2024-06-27_polozitev_venca/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-06-27_polozitev_venca/</link>
                     <pubDate>Thu, 27 Jun 2024 12:00:00 -0700</pubDate>
                     <description>Mestni občini Kranj smo v začetku novembra lani dali pisno pobudo, da kot lastnik objekta Prešernovega gledališča in skrbnik spominske plošče naroči potrebna vdrževalna dela na njej &hellip;</description>
                 </item>
@@ -108,7 +117,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo v razstavnih prostorih Zveze kulturnih društev Kranj</title>
-                    <link>http://localhost:1313/objave/2024-06-03_razstava_zkd/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-06-03_razstava_zkd/</link>
                     <pubDate>Mon, 10 Jun 2024 12:00:00 -0700</pubDate>
                     <description>V dneh od 3. do 10. junija 2024 je v sodelovanju z Društvom general Rudolf Maister Kranj v razstavnem prostoru za obiskovalce gostila razstavo Zveze društev generala Maistra o generalu Rudolfu Maistru in bojih za severno mejo &hellip;</description>
                 </item>
@@ -117,7 +126,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Janeza Puharja Kranj</title>
-                    <link>http://localhost:1313/objave/2024-06-03_razstava_os_puhar/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-06-03_razstava_os_puhar/</link>
                     <pubDate>Mon, 03 Jun 2024 12:00:00 -0700</pubDate>
                     <description>V dneh od 20. maja do 3. junija 2024 je Osnovna šola Janeza Puharja Kranj v sodelovanju z Društvom general Rudolf Maister Kranj gostila razstavo Zveze društev generala Maistra o generalu Rudolfu Maistru in bojih za severno mejo &hellip;</description>
                 </item>
@@ -126,7 +135,7 @@
                  
                 <item>
                     <title>Razstava in predavanje o bojih za severno mejo v Cerkljah na Gorenjskem</title>
-                    <link>http://localhost:1313/objave/2024-05-18_razstava_cerklje/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-05-18_razstava_cerklje/</link>
                     <pubDate>Sat, 18 May 2024 12:00:00 -0700</pubDate>
                     <description>Od 8. do 18. maja je Društvo generala Rudolfa Maistra Kranj v razstavnem prostoru Turistično informacijskega centra Cerklje postavilo razstavo o Rudolfu Maistru in bojih za severno mejo &hellip;</description>
                 </item>
@@ -135,7 +144,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo v Gimnaziji Kranj</title>
-                    <link>http://localhost:1313/objave/2024-05-09_razstava_gimkr/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-05-09_razstava_gimkr/</link>
                     <pubDate>Wed, 08 May 2024 01:00:00 -0700</pubDate>
                     <description>Gimnazija Kranj je od 22. aprila do 7. maja 2024 po novembru 2021 v letu generala Rudolfa Maistra ponovno gostila razstavo o Rudolfu Maistru in bojih za severno mejo &hellip;</description>
                 </item>
@@ -144,7 +153,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in predavanje o bojih za severno mejo v Karavankah na OŠ Bistrica pri Tržiču</title>
-                    <link>http://localhost:1313/objave/2024-04-22_razstava_os_bistrica_pri_trzicu/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-04-22_razstava_os_bistrica_pri_trzicu/</link>
                     <pubDate>Mon, 22 Apr 2024 01:00:00 -0700</pubDate>
                     <description>Od 12. do 22. aprila 2024 je Društvo general Rudolf Maister Kranj na Osnovni šoli Bistrica pri Tržiču postavilo razstavo Zveze društev general Maister o življenju in delu generala Rudolfa Maistra &hellip;</description>
                 </item>
@@ -153,7 +162,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo ter predavanje na OŠ Orehek v Kranju</title>
-                    <link>http://localhost:1313/objave/2024-04-14_razstava_os_orehek/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-04-14_razstava_os_orehek/</link>
                     <pubDate>Sat, 13 Apr 2024 12:00:00 -0700</pubDate>
                     <description>Od 3. do 12. aprila 2024 je Društvo general Rudolf Maister Kranj na Osnovni šoli Orehek postavilo razstavo Zveze društev general Maister o življenju in delu generala Rudolfa Maistra ter o bojih za severno mejo &hellip;</description>
                 </item>
@@ -162,7 +171,7 @@
                  
                 <item>
                     <title>Proslava ob 150-letnici rojstva in 90-letnici smrti generala Rudolfa Maistra </title>
-                    <link>http://localhost:1313/objave/2024-03-29_proslava_ob_150_letnici_rojstva/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-03-29_proslava_ob_150_letnici_rojstva/</link>
                     <pubDate>Fri, 29 Mar 2024 12:00:00 -0700</pubDate>
                     <description>Gimnazija Kranj je 29. marca 2024 ob 150-letnici rojstva in 90-letnici smrti pri Maistrovem spomeniku na Maistrovem trgu v Kranju pripravila slovesnost, s katero se je poklonila Rudolfu Maistru, svojemu dijaku in velikemu Slovencu &hellip;</description>
                 </item>
@@ -171,7 +180,7 @@
                  
                 <item>
                     <title>Slovesnost na Uncu ter podelitve priznanj ZDGM in 19. Skupščina ZDGM v Kulturnem domu Cerknica</title>
-                    <link>http://localhost:1313/objave/2024-03-23_slovesnost_na_uncu_in_9_skupscina_zdgm/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-03-23_slovesnost_na_uncu_in_9_skupscina_zdgm/</link>
                     <pubDate>Sat, 23 Mar 2024 12:00:00 -0700</pubDate>
                     <description>V prostorih Kulturnega doma Cerknica je bila 23. marca 2024 sklicana 19. Skupščina Zveze društev general Maister &hellip;</description>
                 </item>
@@ -180,7 +189,7 @@
                  
                 <item>
                     <title>Skupščina DGRM Kranj 29. 2. 2024</title>
-                    <link>http://localhost:1313/objave/2024-02-29_skupscina/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-02-29_skupscina/</link>
                     <pubDate>Thu, 29 Feb 2024 12:00:00 -0800</pubDate>
                     <description>Člani Društva general Rudolf Maister Kranj so se zbrali na redni letni skupščini 29. 2. 2024 v Gostilni Benedik v Stražišču.  &hellip;</description>
                 </item>
@@ -189,7 +198,7 @@
                  
                 <item>
                     <title>Borci za severno mejo iz Kranja in Tržiča</title>
-                    <link>http://localhost:1313/objave/2024-02-15_borci-za-severno-mejo/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2024-02-15_borci-za-severno-mejo/</link>
                     <pubDate>Thu, 15 Feb 2024 12:00:00 -0800</pubDate>
                     <description>Iz Spominskega zbornika ob 60-letnici bojev za severno slovensko mejo 1918-1919</description>
                 </item>
@@ -198,7 +207,7 @@
                  
                 <item>
                     <title>Govor predsednika DGRM Kranj na proslavi ob državnem prazniku dan Rudolfa Maistra na Maistrovem trgu v Kranju dne 23. 11. 2023</title>
-                    <link>http://localhost:1313/objave/2023-11-23_2_dan-rd-govor/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-11-23_2_dan-rd-govor/</link>
                     <pubDate>Thu, 23 Nov 2023 12:00:00 -0800</pubDate>
                     <description>Spoštovani! Prihodnje leto bo, po po odločitvi Vlade RS, Maistrovo leto, 150 let od njegovega rojstva in 90 let od njegove smrti. Zakaj je od leta 2005 23. november državni praznik, dan Rudolfa Maistra? &hellip;</description>
                 </item>
@@ -207,7 +216,7 @@
                  
                 <item>
                     <title>Proslava ob državnem prazniku dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2023-11-23_1_dan-rd-proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-11-23_1_dan-rd-proslava/</link>
                     <pubDate>Thu, 23 Nov 2023 11:00:00 -0800</pubDate>
                     <description>Člani Društva general Rudolf Maister Kranj, predstavniki Mestne občine Kranj, predstavniki dijakov in učiteljev s kranjske Gimnazije in ostali, ki so se odzvali vabilu, smo se ob državnem prazniku – dnevu Rudolfa Maistra tudi letos s proslavo na Maistrovem trgu poklonili njegovemu spominu &hellip;</description>
                 </item>
@@ -216,7 +225,7 @@
                  
                 <item>
                     <title>Spominska obeležja med Kranjem in Podkorenom, povezana z bojem za severno mejo</title>
-                    <link>http://localhost:1313/objave/2023-11-02_spominska_obelezja/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-11-02_spominska_obelezja/</link>
                     <pubDate>Thu, 02 Nov 2023 11:25:05 -0400</pubDate>
                     <description></description>
                 </item>
@@ -225,7 +234,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Šenčur od 17. do 27. oktobra 2023</title>
-                    <link>http://localhost:1313/objave/2023-10-17_razstava_os_sencur/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-10-17_razstava_os_sencur/</link>
                     <pubDate>Tue, 17 Oct 2023 11:25:05 -0400</pubDate>
                     <description>Od 17. do 27. oktobra 2023 je DGRM Kranj na Osnovni šoli Šenčur postavilo razstavo Zveze društev general Maister o življenju in delu generala Rudolfa Maistra ter bojih za severno mejo &hellip;</description>
                 </item>
@@ -234,7 +243,7 @@
                  
                 <item>
                     <title>Predavanje in strokovna ekskurzija DGRM Kranj z naslovom »Jeseniški trikotnik«</title>
-                    <link>http://localhost:1313/objave/2023-10-14_ekskurzija/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-10-14_ekskurzija/</link>
                     <pubDate>Sat, 14 Oct 2023 11:25:05 -0400</pubDate>
                     <description>Društvo general Rudolf Maister Kranj je 6. 10. 2023 v prostorih Dijaškega in študentskega doma v Kranju za člane društva organiziralo predavanje upokojenega brigadirja SV Janeza Kavarja, 14. 10. 2023 pa z njegovim strokovnim vodstvom  ekskurzijo po Gorenjski in v Vrbo na Koroškem z naslovom »Jeseniški trikotnik«.  &hellip;</description>
                 </item>
@@ -243,7 +252,7 @@
                  
                 <item>
                     <title>Generala Maistra zadnja pot po slovenski zemlji (objava v časniku Jutro 28. 7. 1934)</title>
-                    <link>http://localhost:1313/objave/2023-07-27_objava_jutro/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-07-27_objava_jutro/</link>
                     <pubDate>Fri, 28 Jul 2023 11:25:05 -0400</pubDate>
                     <description><p><img src="/images/dogodki/2023-07-27_objava_jutro/Jutro_28-7-1934_stran_3_Generala_Maistra_zadnja_pot_po_slovenski_zemlji.jpg" alt="" title=""></p></description>
                 </item>
@@ -252,7 +261,7 @@
                  
                 <item>
                     <title>26. julija 1934 je umrl general Rudolf Maister</title>
-                    <link>http://localhost:1313/objave/2023-07-26_obletnica_smrti/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-07-26_obletnica_smrti/</link>
                     <pubDate>Wed, 26 Jul 2023 11:25:05 -0400</pubDate>
                     <description>V Mariboru so pripravili mrtvaški oder v veži mestnega magistrata, kjer se je od njega poslovilo več kot deset tisoč Mariborčanov in okoliških prebivalcev. &hellip;</description>
                 </item>
@@ -261,7 +270,7 @@
                  
                 <item>
                     <title>Položitev lovorovega venca na spominsko ploščo na Prešernovem gledališču 27. 6. 2023</title>
-                    <link>http://localhost:1313/objave/2023-07-06_spominska_plosca/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-07-06_spominska_plosca/</link>
                     <pubDate>Thu, 06 Jul 2023 11:25:05 -0400</pubDate>
                     <description>V programu DGRM Kranj za letošnje leto smo načrtovali, da bomo spominsko ploščo očistili in obnovili &hellip;</description>
                 </item>
@@ -270,7 +279,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru in bojih za severno mejo na OŠ Naklo od 11. 4. do 25. 4. 2023</title>
-                    <link>http://localhost:1313/objave/2023-05-11_razstava_os_naklo/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-05-11_razstava_os_naklo/</link>
                     <pubDate>Thu, 11 May 2023 11:25:05 -0400</pubDate>
                     <description>Od 11. aprila do 25. aprila 2023 je DGRM Kranj na Osnovni šoli Naklo postavil razstavo o življenju in delu generala Rudolfa Maistra ter bojih za severno mejo, ki jo je pripravila Zveza društev general Maister v sodelovanju z Vojaškim muzejem SV &hellip;</description>
                 </item>
@@ -279,7 +288,7 @@
                  
                 <item>
                     <title>Kratek video z ekskurzije DGRM Kranj v Tržič, na prelaz Ljubelj in v Borovlje</title>
-                    <link>http://localhost:1313/objave/2023-03-26_ekskurzija-video/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-03-26_ekskurzija-video/</link>
                     <pubDate>Sun, 26 Mar 2023 11:25:05 -0400</pubDate>
                     <description>Na voljo je kratek video z ekskurzije, ki smo jo v Društvu general Rudolf Maister Kranj organizirali  11. 11. 2022 v spomin na boje za severno mejo na širšem območju Borovelj.</description>
                 </item>
@@ -287,17 +296,8 @@
             
                  
                 <item>
-                    <title>Negujejo spomin na generala Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2022-11-25_gglas-copy/</link>
-                    <pubDate>Fri, 24 Mar 2023 11:25:05 -0400</pubDate>
-                    <description>Članek o podelitvi zlatih znakov združenja Maistrovih društev v časopisu Gorenjski Glas &hellip;</description>
-                </item>
-                
-            
-                 
-                <item>
                     <title>Skupščina DGRM Kranj 16. 3. 2023</title>
-                    <link>http://localhost:1313/objave/2023-03-16_letna_skupscina/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2023-03-16_letna_skupscina/</link>
                     <pubDate>Thu, 16 Mar 2023 11:25:05 -0400</pubDate>
                     <description>Člani Društva general Rudolf Maister Kranj so se 16. 3. 2022 popoldan zbrali v Hotelu Elegans na Brdu na redni letni Skupščini.</description>
                 </item>
@@ -306,7 +306,7 @@
                  
                 <item>
                     <title>Branili severno mejo</title>
-                    <link>http://localhost:1313/objave/2022-11-25_gglas/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-11-25_gglas/</link>
                     <pubDate>Fri, 25 Nov 2022 11:25:05 -0400</pubDate>
                     <description>Članek o ekskurziji Društva general Rudolf Maister Kranj v časopisu Gorenjski Glas &hellip;</description>
                 </item>
@@ -315,7 +315,7 @@
                  
                 <item>
                     <title>Govor predsednika DGRM Kranj na proslavi ob državnem prazniku dan Rudolfa Maistra na Maistrovem trgu v Kranju dne 23. 11. 2022</title>
-                    <link>http://localhost:1313/objave/2022-11-23_2_dan-rd-govor/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-11-23_2_dan-rd-govor/</link>
                     <pubDate>Wed, 23 Nov 2022 12:00:00 -0800</pubDate>
                     <description>Spoštovani! Današnji dan je šele leta 2005 postal državni praznik. &hellip;</description>
                 </item>
@@ -324,7 +324,7 @@
                  
                 <item>
                     <title>Proslava ob dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2022-11-23_1_dan-rd-proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-11-23_1_dan-rd-proslava/</link>
                     <pubDate>Wed, 23 Nov 2022 11:00:00 -0800</pubDate>
                     <description>Društvo general Rudolf Maister Kranj je v sodelovanju z Mestno občino Kranj in z Gimnazijo Kranj po letu 2019 ponovno pripravilo slovesnost ob tem državnem prazniku &hellip;</description>
                 </item>
@@ -333,7 +333,7 @@
                  
                 <item>
                     <title>Ekskurzija DGRM Kranj v Tržič, na prelaz Ljubelj in v Borovlje</title>
-                    <link>http://localhost:1313/objave/2022-11-14_ekskurzija/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-11-14_ekskurzija/</link>
                     <pubDate>Mon, 14 Nov 2022 11:25:05 -0400</pubDate>
                     <description>V Društvu general Rudolf Maister Kranj smo 11.11.2022 organizirali ekskurzijo v spomin na boje za severno mejo na širšem območju Borovelj &hellip;</description>
                 </item>
@@ -342,7 +342,7 @@
                  
                 <item>
                     <title>Razstava o Rudolfu Maistru v Dijaškem in študentskem domu v Kranju od 10. do 21. oktobra 2022</title>
-                    <link>http://localhost:1313/objave/2022-10-21_razstava_dsd/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-10-21_razstava_dsd/</link>
                     <pubDate>Fri, 21 Oct 2022 11:25:05 -0400</pubDate>
                     <description>Od 10. do 21. oktobra 2022 je priložnostna razstava o generalu Rudolfu Maistru gostovala v prostorih Dijaškega in študentskega doma Kranj. Ob otvoritvi razstave sta povabljene nagovorila ravnateljica Judita Nahtigal in vzgojitelj mag. Aleš Žlebnik. &hellip;</description>
                 </item>
@@ -351,7 +351,7 @@
                  
                 <item>
                     <title>Razstava o zgodovinskih dogodkih in dejanjih Rudolfa Maistra na OŠ Križe od 26. 9. do 7. 10. 2022</title>
-                    <link>http://localhost:1313/objave/2022-10-17_razstava_os_krize/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-10-17_razstava_os_krize/</link>
                     <pubDate>Mon, 17 Oct 2022 11:25:05 -0400</pubDate>
                     <description>V dneh od 26. septembra do 7. oktobra 2022 smo v Osnovni šoli Križe gostili razstavo o generalu Rudolfu Maistru v sodelovanju z Društvom generala Rudolfa Maistra Kranj. Potujočo razstavo je pripravila Zveza društev generala Maistra Ljubljana.</description>
                 </item>
@@ -360,7 +360,7 @@
                  
                 <item>
                     <title>26. julij - dan smrti generala Maistra</title>
-                    <link>http://localhost:1313/objave/2022-07-26_dan_smrti_gm/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-07-26_dan_smrti_gm/</link>
                     <pubDate>Tue, 26 Jul 2022 11:25:05 -0400</pubDate>
                     <description>Dan smrti generala Maistra smo v DGRM Kranj obeležili s prižiganjem sveče in položitvijo šopka pri njegovem doprsnem kipu na Maistrovem trgu v Kranju, Mestna občina Kranj pa je pod kip položila lovorov venec.</description>
                 </item>
@@ -369,7 +369,7 @@
                  
                 <item>
                     <title>Objava zapisnikov skupščin</title>
-                    <link>http://localhost:1313/objave/2022-07_zapisnika/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-07_zapisnika/</link>
                     <pubDate>Fri, 25 Mar 2022 11:25:05 -0400</pubDate>
                     <description>V zavihku &ldquo;Program&rdquo; spletne strani sta objavljena Zapisnik redne letne in volilne skupščine z dne 24. 3. 2022 in Zapisnik korespondenčne skupščine od 21. do 25. 6. 2022 za spremembo 2. člena statuta.</description>
                 </item>
@@ -378,7 +378,7 @@
                  
                 <item>
                     <title>Program dela Društva general Rudolf Maister Kranj za leto 2022</title>
-                    <link>http://localhost:1313/objave/2022-03_program/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-03_program/</link>
                     <pubDate>Fri, 25 Mar 2022 11:25:05 -0400</pubDate>
                     <description>V zavihku &ldquo;Program&rdquo; spletne strani je objavljen program dela Društva general Rudolf Maister Kranj za leto 2022.</description>
                 </item>
@@ -387,7 +387,7 @@
                  
                 <item>
                     <title>Volilna skupščina DGRM Kranj 24. 3. 2022</title>
-                    <link>http://localhost:1313/objave/2022-03-24_volilna_skupscina/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-03-24_volilna_skupscina/</link>
                     <pubDate>Thu, 24 Mar 2022 11:25:05 -0400</pubDate>
                     <description>Člani Društva general Rudolf Maister Kranj so imeli 24. 3. 2022 v hotelu Elegans na Brdu letno in volilno skupščino.</description>
                 </item>
@@ -396,7 +396,7 @@
                  
                 <item>
                     <title>Skupna seja upravnega odbora in nadzornega odbora društva</title>
-                    <link>http://localhost:1313/objave/2022-03-15_seja/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2022-03-15_seja/</link>
                     <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
                     <description>Upravni odbor in nadzorni odbor Društva general Rudolf Maister Kranj sta imela 15. marca 2022 skupno sejo v prostorih Gostilne Benedik v Stražišču.</description>
                 </item>
@@ -405,7 +405,7 @@
                  
                 <item>
                     <title>Proslava ob dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2021-11-23_proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2021-11-23_proslava/</link>
                     <pubDate>Tue, 23 Nov 2021 11:25:05 -0400</pubDate>
                     <description><p>Danes sta ob državnem prazniku dan Rudolfa Maistra na Maistrovem trgu v Kranju položila venec k njegovemu spomeniku župan Mestne občine Kranj Matjaž Rakovec in predsednik Društva general Rudolf Maister Kranj mag. Janez Tavčar.</p>
 <p>Tudi letošnje leto zaradi epidemioloških razmer ni bilo mogoče pripraviti spominskega govora in krajšega kulturnega programa v sodelovanju z Gimnazijo Kranj.</p>
@@ -418,7 +418,7 @@
                  
                 <item>
                     <title>Maistrova razstava na Gimnaziji Kranj</title>
-                    <link>http://localhost:1313/objave/2021-11-03_razstava_gimkr/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2021-11-03_razstava_gimkr/</link>
                     <pubDate>Wed, 03 Nov 2021 11:25:05 -0400</pubDate>
                     <description>V sredo opoldne sta v avli Gimnazije Kranj predsednik kranjskega Društva generala Maistra Janez Tavčar in pomočnik ravnatelja Gimnazije Kranj Franci Rozman odprla razstavo o življenju, dogodkih in dejanjih generala Maistra in njegovih borcev za severno mejo. &hellip;</description>
                 </item>
@@ -427,7 +427,7 @@
                  
                 <item>
                     <title>Društvo general Rudolf Maister Kranj v letu 2020</title>
-                    <link>http://localhost:1313/objave/2020-12-26_maistrov_glas/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-12-26_maistrov_glas/</link>
                     <pubDate>Sat, 26 Dec 2020 11:25:05 -0400</pubDate>
                     <description>Objava v Maistrovem glasu decembra 2020.</description>
                 </item>
@@ -436,7 +436,7 @@
                  
                 <item>
                     <title>Voščilo</title>
-                    <link>http://localhost:1313/objave/2020-12-20_voscilo/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-12-20_voscilo/</link>
                     <pubDate>Sun, 20 Dec 2020 11:25:05 -0400</pubDate>
                     <description></description>
                 </item>
@@ -445,7 +445,7 @@
                  
                 <item>
                     <title>Proslava ob dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2020-11-23_proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-11-23_proslava/</link>
                     <pubDate>Mon, 23 Nov 2020 11:25:05 -0400</pubDate>
                     <description>Državni praznik, dan Rudolfa Maistra, praznujemo v Sloveniji v spomin na njegov boj za severno slovensko mejo od leta 2005. Danes smo se mu na Maistrovem trgu v Kranju ob državnem prazniku poklonili tako, da sta predsednik Društva general Rudolf Maister Kranj mag. Janez Tavčar in župan MO Kranj g. Matjaž Rakovec v spremstvu nekaterih članov društva položila venec k njegovemu spomeniku. &hellip;</description>
                 </item>
@@ -454,7 +454,7 @@
                  
                 <item>
                     <title>Sporočilo članicam in članom Društva general Rudolf Maister Kranj</title>
-                    <link>http://localhost:1313/objave/2020-11-10_sporocilo/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-11-10_sporocilo/</link>
                     <pubDate>Tue, 10 Nov 2020 11:25:05 -0400</pubDate>
                     <description></description>
                 </item>
@@ -463,7 +463,7 @@
                  
                 <item>
                     <title>Skupna seja upravnega odbora in nadzornega odbora društva</title>
-                    <link>http://localhost:1313/objave/2020-10-08_seja/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-10-08_seja/</link>
                     <pubDate>Thu, 08 Oct 2020 11:25:05 -0400</pubDate>
                     <description><p><img src="/images/dogodki/2020-10-08_seja/seja-2020-10-08_01.jpg" alt="" title=" "></p>
 <p><img src="/images/dogodki/2020-10-08_seja/seja-2020-10-08_02.jpg" alt="" title=" "></p>
@@ -478,7 +478,7 @@
                  
                 <item>
                     <title>Program aktivnosti društva za leto 2020</title>
-                    <link>http://localhost:1313/objave/2020-04_program/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2020-04_program/</link>
                     <pubDate>Wed, 01 Apr 2020 11:25:05 -0400</pubDate>
                     <description>Predhodno izdelani program aktivnosti je upravni odbor zaradi ukrepov pandemije v letošnjem prvem polletju omejil na predvidene najvažnejše naloge, ki jih bo še možno izvesti do konca leta.</description>
                 </item>
@@ -487,7 +487,7 @@
                  
                 <item>
                     <title>Proslava ob dnevu Rudolfa Maistra</title>
-                    <link>http://localhost:1313/objave/2019-11-21_proslava/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2019-11-21_proslava/</link>
                     <pubDate>Thu, 21 Nov 2019 11:25:05 -0400</pubDate>
                     <description>Proslava ob dnevu Rudolfa Maistra 21. 11. 2019. Slavnostni govornik je bil mag. Franci Rozman, član društva in dolgoletni ravnatelj Gimnazije Kranj.</description>
                 </item>
@@ -496,7 +496,7 @@
                  
                 <item>
                     <title>Predstavitev knjige Stražarji Karavank v Mestni knjižnici Kranj</title>
-                    <link>http://localhost:1313/objave/2018-11-29_predstavitev/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2018-11-29_predstavitev/</link>
                     <pubDate>Thu, 29 Nov 2018 11:25:05 -0400</pubDate>
                     <description></description>
                 </item>
@@ -505,7 +505,7 @@
                  
                 <item>
                     <title>Koroška, njihova srčna stvar</title>
-                    <link>http://localhost:1313/objave/2018-02-18_gg/</link>
+                    <link>https://www.dgrm-kranj.si/objave/2018-02-18_gg/</link>
                     <pubDate>Sun, 18 Feb 2018 11:25:05 -0400</pubDate>
                     <description>Letos mineva sto let od začetka bojev za našo severno mejo. Začel jih je general Rudolf Maister, z njim pa so šli v boj številni slovenski fantje in možje, utrujeni od komaj končane vojne. Med bojevniki so bili tudi Gorenjci. O njih, o njihovem pogumu in domoljubju ter o vlogi Ljubelja je pripovedoval upokojeni brigadir Slovenske vojske Janez Kavar iz Križev.</description>
                 </item>
